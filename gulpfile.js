@@ -1,5 +1,6 @@
-import gulp from 'gulp';
-import browserSync from 'browser-sync';
+const gulp = require('gulp');
+const browserSync = require('browser-sync');
+const backstop = require('backstopjs');
 
 const server = browserSync.create();
 
@@ -8,7 +9,7 @@ const refresh = (done) => {
   done();
 };
 
-const syncServer = () => {
+const syncServer = (done) => {
   server.init({
     server: 'build/',
     index: 'index.html',
@@ -19,5 +20,18 @@ const syncServer = () => {
   });
 
   gulp.watch('build/**/*', gulp.series(refresh));
+  done();
 };
-export const serve = gulp.series(syncServer);
+
+const test = gulp.series(syncServer, () => {
+  backstop('test',  {config:'pp.config.js'})
+      .then(() => {
+        // test successful
+      }).catch(() => {
+    // test failed
+  });
+});
+
+module.exports = {
+  test,
+};

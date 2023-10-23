@@ -1,8 +1,7 @@
 {
   "name": "fitness-self-test",
-  "type": "module",
   "scripts": {
-    "test": "gulp serve && backstop test --config=pp.config.cjs"
+    "test": "gulp test"
   },
   "devDependencies": {
     "backstopjs": "6.2.2",
