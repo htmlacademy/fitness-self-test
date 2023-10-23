@@ -11,7 +11,7 @@ const indexSections = [
 ];
 
   module.exports = {
-    "id": "supergym test-06",
+    "id": "supergym test-pp",
     "viewports": [
       {
         "label": "desktop",
@@ -38,7 +38,7 @@ const indexSections = [
     },
     "scenarios": [
       ...indexSections.map(({ section, misMatchThreshold }) => ({
-        "label": `index ${section} TEST-06. PP.`,
+        "label": `${section}`,
         "url": "http://localhost:3000/index.html",
         "referenceUrl": "./figma/index.html",
         selectors: [`[data-test="${section}"]`],
@@ -47,9 +47,9 @@ const indexSections = [
         delay: 500
       })),
     ],
-    fileNameTemplate: '{configId}_{scenarioIndex}_{scenarioLabel}_{selectorIndex}__{viewportIndex}_{viewportLabel}',
+    fileNameTemplate: '{scenarioLabel}_{viewportLabel}',
     "paths": {
-      "bitmaps_reference": "bitmaps_reference/test-06",
+      "bitmaps_reference": "bitmaps_reference/test-pp",
       "bitmaps_test": "backstop_data/bitmaps_test",
       "engine_scripts": "engine_scripts",
       "html_report": "backstop_data/html_report",

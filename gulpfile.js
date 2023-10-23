@@ -19,18 +19,18 @@ const syncServer = (done) => {
     ui: false,
   });
 
-  gulp.watch('build/**/*', gulp.series(refresh));
+  gulp.watch('build/**/*', gulp.series(refresh, backstopTest));
   done();
 };
 
-const test = gulp.series(syncServer, () => {
-  backstop('test',  {config:'pp.config.js'})
+const backstopTest = (done) => backstop('test',  {config:'pp.config.js'})
       .then(() => {
         // test successful
       }).catch(() => {
-    // test failed
-  });
-});
+        // test failed
+      }).finally(done);
+
+const test = gulp.series(syncServer, backstopTest);
 
 module.exports = {
   test,
