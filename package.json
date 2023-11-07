@@ -1,11 +1,15 @@
 {
   "name": "fitness-self-test",
   "scripts": {
-    "test": "gulp test"
+    "test": "gulp test",
+    "vitest": "vitest --ui"
   },
   "devDependencies": {
+    "@vitest/ui": "^0.34.6",
     "backstopjs": "6.2.2",
     "browser-sync": "2.27.10",
-    "gulp": "4.0.2"
+    "gulp": "4.0.2",
+    "puppeteer": "^21.5.0",
+    "vitest": "^0.34.6"
   }
 }
