@@ -5,7 +5,7 @@ import type {Browser, ElementHandle, Page} from 'puppeteer'
 import {launch} from 'puppeteer'
 
 const PORT = 3000
-describe('basic', async () => {
+describe('basic text styles', async () => {
     let server: PreviewServer
     let browser: Browser
     let page: Page
@@ -41,6 +41,9 @@ describe('basic', async () => {
         const $container = await page.$(`[data-test="${testName}"]`);
         for (const text of elements) {
             const [$el] = await getByText($container, text);
+            if (!$el) {
+                throw new Error(`Element with text "${text}" not found`);
+            }
             const styleProperties = await page.evaluate(el => {
                 const cssObj = getComputedStyle(el);
                 const getProperties = (cssObj, properties) => {
@@ -49,7 +52,7 @@ describe('basic', async () => {
                         return acc;
                     }, {});
                 };
-                return getProperties(cssObj, ['font-size', 'font-family', 'line-height', 'font-weight', 'letter-spacing']);
+                return getProperties(cssObj, ['font-size', 'font-family', 'line-height', 'font-weight', 'letter-spacing', 'color']);
             }, $el);
             expect(styleProperties).toMatchSnapshot();
         }
@@ -72,6 +75,87 @@ describe('basic', async () => {
             'Купить абонемент',
             'Дневной',
             'с 8:00 до 17:00'
+        ]);
+    });
+    test('games', async () => {
+        await runTest('games', [
+            'Super games',
+            'Дата',
+            '7',
+            'Марта 2019',
+            'Время',
+            '12:00',
+            'Заполнить заявку',
+            'Ежегодные соревнования',
+            'Жюри',
+            'Анна Павлова',
+            'Certified',
+            'Победитель чемпионата России',
+            'Опыт',
+
+        ]);
+    });
+    test('features', async () => {
+        await runTest('features', [
+            'Наши преимущества',
+            '900',
+            'кв/м',
+            'Площадь',
+            'Занимайтесь без',
+            '100',
+            'Тренажеров',
+            'Современные тренажеры',
+        ]);
+    });
+    test('offers', async () => {
+        await runTest('offers', [
+            'Акции',
+            'Год',
+            '4999',
+            'Безлимитный абонемент',
+            'Подробнее',
+            'Месяц бесплатно',
+            'Приведи друга',
+            'Скидка',
+            'Корпоративный фитнес',
+            ''
+        ]);
+    })
+    test('faq', async () => {
+        await runTest('faq', [
+            'Вопросы и ответы',
+            'Центр',
+            'Абонемент',
+            'Как стать членом',
+            'При первом посещении',
+            'Где можно посмотреть',
+            'Какие дополнительные правила',
+            'Для тренировок необходимо',
+        ]);
+    });
+    test('reviews', async () => {
+        await runTest('reviews', [
+            'Отзывы',
+            'Анна Орлова',
+            'больше года',
+        ]);
+    });
+    test('footer', async () => {
+        await runTest('footer', [
+            'Бесплатное занятие',
+            'Отправить',
+            'Контакты',
+            'Адрес',
+            '60 лет Октября',
+            'График работы:',
+            'Пн-Вс: с 8:00 до 22:00',
+            'Телефон:',
+            '8-800-555-55-55',
+            'Email:',
+            'omsk@supergym.ru',
+            'Услуги',
+            'Абонементы',
+            ''
         ]);
     });
 })

@@ -2,6 +2,7 @@
 
 exports[`basic > about 1`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
@@ -12,6 +13,7 @@ exports[`basic > about 1`] = `
 
 exports[`basic > about 2`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
@@ -22,6 +24,7 @@ exports[`basic > about 2`] = `
 
 exports[`basic > about 3`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
@@ -30,8 +33,405 @@ exports[`basic > about 3`] = `
 }
 `;
 
+exports[`basic > faq 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > faq 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic > faq 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > faq 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "22px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic > faq 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > faq 6`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "22px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic > faq 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "22px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic > faq 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > features 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > features 2`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic > features 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic > features 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic > features 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > features 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "74px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "74px",
+}
+`;
+
+exports[`basic > features 7`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > features 8`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > footer 1`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > footer 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "1.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic > footer 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > footer 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic > footer 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic > footer 6`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic > footer 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic > footer 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic > footer 9`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > games 1`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "48px",
+  "font-weight": "600",
+  "letter-spacing": "1.44px",
+  "line-height": "46px",
+}
+`;
+
+exports[`basic > games 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "23px",
+}
+`;
+
+exports[`basic > games 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > games 4`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "10px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic > games 5`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "23px",
+}
+`;
+
+exports[`basic > games 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > games 7`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "0.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic > games 8`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > games 9`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > games 10`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic > games 11`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
 exports[`basic > hero 1`] = `
 {
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
@@ -42,6 +442,7 @@ exports[`basic > hero 1`] = `
 
 exports[`basic > hero 2`] = `
 {
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
@@ -52,6 +453,7 @@ exports[`basic > hero 2`] = `
 
 exports[`basic > hero 3`] = `
 {
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
@@ -62,6 +464,7 @@ exports[`basic > hero 3`] = `
 
 exports[`basic > hero 4`] = `
 {
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
@@ -70,8 +473,119 @@ exports[`basic > hero 4`] = `
 }
 `;
 
+exports[`basic > offers 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > offers 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "28px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "28px",
+}
+`;
+
+exports[`basic > offers 3`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "70px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "70px",
+}
+`;
+
+exports[`basic > offers 4`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > offers 5`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "700",
+  "letter-spacing": "0.7px",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic > offers 6`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > offers 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > offers 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > offers 9`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > offers 10`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
 exports[`basic > price 1`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
@@ -82,6 +596,7 @@ exports[`basic > price 1`] = `
 
 exports[`basic > price 2`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
@@ -92,6 +607,7 @@ exports[`basic > price 2`] = `
 
 exports[`basic > price 3`] = `
 {
+  "color": "rgba(16, 38, 84, 0.5)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
@@ -102,6 +618,7 @@ exports[`basic > price 3`] = `
 
 exports[`basic > price 4`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
@@ -112,6 +629,7 @@ exports[`basic > price 4`] = `
 
 exports[`basic > price 5`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
@@ -122,6 +640,7 @@ exports[`basic > price 5`] = `
 
 exports[`basic > price 6`] = `
 {
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
@@ -132,6 +651,7 @@ exports[`basic > price 6`] = `
 
 exports[`basic > price 7`] = `
 {
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
@@ -142,6 +662,821 @@ exports[`basic > price 7`] = `
 
 exports[`basic > price 8`] = `
 {
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > reviews 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > reviews 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic > reviews 3`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > about 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > about 2`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > about 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > faq 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > faq 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic text styles > faq 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > faq 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "22px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > faq 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > faq 6`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "22px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > faq 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "22px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > faq 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > features 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > features 2`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > features 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > features 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > features 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > features 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "74px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "74px",
+}
+`;
+
+exports[`basic text styles > features 7`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > features 8`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > footer 1`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > footer 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "1.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic text styles > footer 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > footer 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic text styles > footer 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > footer 6`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic text styles > footer 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > footer 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic text styles > footer 9`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > footer 10`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "30px",
+}
+`;
+
+exports[`basic text styles > footer 11`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > footer 12`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic text styles > footer 13`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > footer 14`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > games 1`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "48px",
+  "font-weight": "600",
+  "letter-spacing": "1.44px",
+  "line-height": "46px",
+}
+`;
+
+exports[`basic text styles > games 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "23px",
+}
+`;
+
+exports[`basic text styles > games 3`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > games 4`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "10px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic text styles > games 5`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "23px",
+}
+`;
+
+exports[`basic text styles > games 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > games 7`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "0.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic text styles > games 8`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > games 9`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > games 10`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > games 11`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > games 12`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > games 13`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > hero 1`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > hero 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > hero 3`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
+}
+`;
+
+exports[`basic text styles > hero 4`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "0.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic text styles > offers 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > offers 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "28px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "28px",
+}
+`;
+
+exports[`basic text styles > offers 3`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "70px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "70px",
+}
+`;
+
+exports[`basic text styles > offers 4`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > offers 5`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "700",
+  "letter-spacing": "0.7px",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > offers 6`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > offers 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > offers 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > offers 9`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > offers 10`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > price 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > price 2`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic text styles > price 3`] = `
+{
+  "color": "rgba(16, 38, 84, 0.5)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic text styles > price 4`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > price 5`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > price 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "0.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic text styles > price 7`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > price 8`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic text styles > reviews 1`] = `
+{
+  "color": "rgb(16, 38, 84)",
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic text styles > reviews 2`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "20px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+}
+`;
+
+exports[`basic text styles > reviews 3`] = `
+{
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
