@@ -69,3 +69,93 @@ exports[`basic > basic > hero 4`] = `
   "line-height": "12px",
 }
 `;
+
+exports[`basic > basic > price 1`] = `
+{
+  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
+  "font-size": "42px",
+  "font-weight": "600",
+  "letter-spacing": "1.26px",
+  "line-height": "42px",
+}
+`;
+
+exports[`basic > basic > price 2`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic > basic > price 3`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
+}
+`;
+
+exports[`basic > basic > price 4`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > basic > price 5`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > basic > price 6`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "12px",
+  "font-weight": "700",
+  "letter-spacing": "0.6px",
+  "line-height": "12px",
+}
+`;
+
+exports[`basic > basic > price 7`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "24px",
+  "font-weight": "700",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > basic > price 8`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
+
+exports[`basic > basic > price 9`] = `
+{
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+}
+`;
