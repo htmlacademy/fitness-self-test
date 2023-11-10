@@ -1,6 +1,6 @@
 // Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
 
-exports[`basic > basic > about 1`] = `
+exports[`basic > about 1`] = `
 {
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
@@ -10,7 +10,7 @@ exports[`basic > basic > about 1`] = `
 }
 `;
 
-exports[`basic > basic > about 2`] = `
+exports[`basic > about 2`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
@@ -20,7 +20,7 @@ exports[`basic > basic > about 2`] = `
 }
 `;
 
-exports[`basic > basic > about 3`] = `
+exports[`basic > about 3`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
@@ -30,7 +30,7 @@ exports[`basic > basic > about 3`] = `
 }
 `;
 
-exports[`basic > basic > hero 1`] = `
+exports[`basic > hero 1`] = `
 {
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
@@ -40,7 +40,7 @@ exports[`basic > basic > hero 1`] = `
 }
 `;
 
-exports[`basic > basic > hero 2`] = `
+exports[`basic > hero 2`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
@@ -50,7 +50,7 @@ exports[`basic > basic > hero 2`] = `
 }
 `;
 
-exports[`basic > basic > hero 3`] = `
+exports[`basic > hero 3`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
@@ -60,7 +60,7 @@ exports[`basic > basic > hero 3`] = `
 }
 `;
 
-exports[`basic > basic > hero 4`] = `
+exports[`basic > hero 4`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
@@ -70,7 +70,7 @@ exports[`basic > basic > hero 4`] = `
 }
 `;
 
-exports[`basic > basic > price 1`] = `
+exports[`basic > price 1`] = `
 {
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
@@ -80,7 +80,7 @@ exports[`basic > basic > price 1`] = `
 }
 `;
 
-exports[`basic > basic > price 2`] = `
+exports[`basic > price 2`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
@@ -90,7 +90,7 @@ exports[`basic > basic > price 2`] = `
 }
 `;
 
-exports[`basic > basic > price 3`] = `
+exports[`basic > price 3`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
@@ -100,7 +100,7 @@ exports[`basic > basic > price 3`] = `
 }
 `;
 
-exports[`basic > basic > price 4`] = `
+exports[`basic > price 4`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
@@ -110,7 +110,7 @@ exports[`basic > basic > price 4`] = `
 }
 `;
 
-exports[`basic > basic > price 5`] = `
+exports[`basic > price 5`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
@@ -120,7 +120,7 @@ exports[`basic > basic > price 5`] = `
 }
 `;
 
-exports[`basic > basic > price 6`] = `
+exports[`basic > price 6`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
@@ -130,7 +130,7 @@ exports[`basic > basic > price 6`] = `
 }
 `;
 
-exports[`basic > basic > price 7`] = `
+exports[`basic > price 7`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
@@ -140,7 +140,7 @@ exports[`basic > basic > price 7`] = `
 }
 `;
 
-exports[`basic > basic > price 8`] = `
+exports[`basic > price 8`] = `
 {
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
