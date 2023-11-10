@@ -149,13 +149,3 @@ exports[`basic > basic > price 8`] = `
   "line-height": "24px",
 }
 `;
-
-exports[`basic > basic > price 9`] = `
-{
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "300",
-  "letter-spacing": "normal",
-  "line-height": "24px",
-}
-`;
