@@ -196,10 +196,10 @@ exports[`basic text styles > desktop > features 6`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "74px",
+  "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "74px",
+  "line-height": "70px",
   "text": "100",
 }
 `;
@@ -268,8 +268,8 @@ exports[`basic text styles > desktop > footer 4`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "700",
+  "font-size": "24px",
+  "font-weight": "400",
   "letter-spacing": "normal",
   "line-height": "24px",
   "text": "Адрес",
@@ -292,8 +292,8 @@ exports[`basic text styles > desktop > footer 6`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "700",
+  "font-size": "24px",
+  "font-weight": "400",
   "letter-spacing": "normal",
   "line-height": "24px",
   "text": "График работы:",
@@ -316,8 +316,8 @@ exports[`basic text styles > desktop > footer 8`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "700",
+  "font-size": "24px",
+  "font-weight": "400",
   "letter-spacing": "normal",
   "line-height": "24px",
   "text": "Телефон:",
@@ -340,8 +340,8 @@ exports[`basic text styles > desktop > footer 10`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "700",
+  "font-size": "24px",
+  "font-weight": "400",
   "letter-spacing": "normal",
   "line-height": "24px",
   "text": "Email:",
@@ -427,12 +427,24 @@ exports[`basic text styles > desktop > games 4`] = `
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "18px",
-  "text": "Марта 2019",
+  "line-height": "14px",
+  "text": "Марта",
 }
 `;
 
 exports[`basic text styles > desktop > games 5`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "14px",
+  "text": "2019",
+}
+`;
+
+exports[`basic text styles > desktop > games 6`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -444,7 +456,7 @@ exports[`basic text styles > desktop > games 5`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 6`] = `
+exports[`basic text styles > desktop > games 7`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -456,7 +468,7 @@ exports[`basic text styles > desktop > games 6`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 7`] = `
+exports[`basic text styles > desktop > games 8`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -468,7 +480,7 @@ exports[`basic text styles > desktop > games 7`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 8`] = `
+exports[`basic text styles > desktop > games 9`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -480,7 +492,7 @@ exports[`basic text styles > desktop > games 8`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 9`] = `
+exports[`basic text styles > desktop > games 10`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
@@ -492,7 +504,7 @@ exports[`basic text styles > desktop > games 9`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 10`] = `
+exports[`basic text styles > desktop > games 11`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -504,7 +516,7 @@ exports[`basic text styles > desktop > games 10`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 11`] = `
+exports[`basic text styles > desktop > games 12`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -516,7 +528,7 @@ exports[`basic text styles > desktop > games 11`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 12`] = `
+exports[`basic text styles > desktop > games 13`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -528,7 +540,7 @@ exports[`basic text styles > desktop > games 12`] = `
 }
 `;
 
-exports[`basic text styles > desktop > games 13`] = `
+exports[`basic text styles > desktop > games 14`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -643,7 +655,7 @@ exports[`basic text styles > desktop > offers 5`] = `
   "font-size": "14px",
   "font-weight": "700",
   "letter-spacing": "0.7px",
-  "line-height": "20px",
+  "line-height": "14px",
   "text": "Подробнее",
 }
 `;
@@ -1024,10 +1036,10 @@ exports[`basic text styles > mobile > features 6`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "74px",
+  "font-size": "64px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "74px",
+  "line-height": "64px",
   "text": "100",
 }
 `;
@@ -1097,9 +1109,9 @@ exports[`basic text styles > mobile > footer 4`] = `
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
-  "font-weight": "700",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "20px",
   "text": "Адрес",
 }
 `;
@@ -1121,9 +1133,9 @@ exports[`basic text styles > mobile > footer 6`] = `
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
-  "font-weight": "700",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "20px",
   "text": "График работы:",
 }
 `;
@@ -1145,9 +1157,9 @@ exports[`basic text styles > mobile > footer 8`] = `
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
-  "font-weight": "700",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "20px",
   "text": "Телефон:",
 }
 `;
@@ -1169,9 +1181,9 @@ exports[`basic text styles > mobile > footer 10`] = `
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
-  "font-weight": "700",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "20px",
   "text": "Email:",
 }
 `;
@@ -1231,7 +1243,7 @@ exports[`basic text styles > mobile > games 2`] = `
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "19px",
+  "line-height": "20px",
   "text": "Дата",
 }
 `;
@@ -1255,8 +1267,8 @@ exports[`basic text styles > mobile > games 4`] = `
   "font-size": "10px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "12px",
-  "text": "Марта 2019",
+  "line-height": "10px",
+  "text": "Марта",
 }
 `;
 
@@ -1264,15 +1276,27 @@ exports[`basic text styles > mobile > games 5`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
+  "font-size": "10px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "19px",
-  "text": "Время",
+  "line-height": "10px",
+  "text": "2019",
 }
 `;
 
 exports[`basic text styles > mobile > games 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "20px",
+  "text": "Время",
+}
+`;
+
+exports[`basic text styles > mobile > games 7`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1284,7 +1308,7 @@ exports[`basic text styles > mobile > games 6`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 7`] = `
+exports[`basic text styles > mobile > games 8`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1296,7 +1320,7 @@ exports[`basic text styles > mobile > games 7`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 8`] = `
+exports[`basic text styles > mobile > games 9`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1308,7 +1332,7 @@ exports[`basic text styles > mobile > games 8`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 9`] = `
+exports[`basic text styles > mobile > games 10`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
@@ -1320,7 +1344,7 @@ exports[`basic text styles > mobile > games 9`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 10`] = `
+exports[`basic text styles > mobile > games 11`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1332,7 +1356,7 @@ exports[`basic text styles > mobile > games 10`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 11`] = `
+exports[`basic text styles > mobile > games 12`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1344,7 +1368,7 @@ exports[`basic text styles > mobile > games 11`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 12`] = `
+exports[`basic text styles > mobile > games 13`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1356,7 +1380,7 @@ exports[`basic text styles > mobile > games 12`] = `
 }
 `;
 
-exports[`basic text styles > mobile > games 13`] = `
+exports[`basic text styles > mobile > games 14`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -1432,10 +1456,10 @@ exports[`basic text styles > mobile > offers 2`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "26px",
+  "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "26px",
+  "line-height": "22px",
   "text": "Год",
 }
 `;
@@ -1471,7 +1495,7 @@ exports[`basic text styles > mobile > offers 5`] = `
   "font-size": "14px",
   "font-weight": "700",
   "letter-spacing": "0.7px",
-  "line-height": "20px",
+  "line-height": "14px",
   "text": "Подробнее",
 }
 `;
@@ -1852,10 +1876,10 @@ exports[`basic text styles > tablet > features 6`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "74px",
+  "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "74px",
+  "line-height": "70px",
   "text": "100",
 }
 `;
@@ -1913,7 +1937,7 @@ exports[`basic text styles > tablet > footer 3`] = `
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
-  "font-weight": "600",
+  "font-weight": "700",
   "letter-spacing": "1.26px",
   "line-height": "42px",
   "text": "Контакты",
@@ -1924,10 +1948,10 @@ exports[`basic text styles > tablet > footer 4`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "20px",
-  "font-weight": "700",
+  "font-size": "22px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "22px",
   "text": "Адрес",
 }
 `;
@@ -1948,10 +1972,10 @@ exports[`basic text styles > tablet > footer 6`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "20px",
-  "font-weight": "700",
+  "font-size": "22px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "22px",
   "text": "График работы:",
 }
 `;
@@ -1972,10 +1996,10 @@ exports[`basic text styles > tablet > footer 8`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "20px",
-  "font-weight": "700",
+  "font-size": "22px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "22px",
   "text": "Телефон:",
 }
 `;
@@ -1996,10 +2020,10 @@ exports[`basic text styles > tablet > footer 10`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "20px",
-  "font-weight": "700",
+  "font-size": "22px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "30px",
+  "line-height": "22px",
   "text": "Email:",
 }
 `;
@@ -2059,7 +2083,7 @@ exports[`basic text styles > tablet > games 2`] = `
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "23px",
+  "line-height": "24px",
   "text": "Дата",
 }
 `;
@@ -2083,8 +2107,8 @@ exports[`basic text styles > tablet > games 4`] = `
   "font-size": "10px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "12px",
-  "text": "Марта 2019",
+  "line-height": "10px",
+  "text": "Марта",
 }
 `;
 
@@ -2092,15 +2116,27 @@ exports[`basic text styles > tablet > games 5`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "18px",
+  "font-size": "10px",
   "font-weight": "300",
   "letter-spacing": "normal",
-  "line-height": "23px",
-  "text": "Время",
+  "line-height": "10px",
+  "text": "2019",
 }
 `;
 
 exports[`basic text styles > tablet > games 6`] = `
+{
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "300",
+  "letter-spacing": "normal",
+  "line-height": "24px",
+  "text": "Время",
+}
+`;
+
+exports[`basic text styles > tablet > games 7`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2112,7 +2148,7 @@ exports[`basic text styles > tablet > games 6`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 7`] = `
+exports[`basic text styles > tablet > games 8`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2124,7 +2160,7 @@ exports[`basic text styles > tablet > games 7`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 8`] = `
+exports[`basic text styles > tablet > games 9`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2136,7 +2172,7 @@ exports[`basic text styles > tablet > games 8`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 9`] = `
+exports[`basic text styles > tablet > games 10`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
@@ -2148,7 +2184,7 @@ exports[`basic text styles > tablet > games 9`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 10`] = `
+exports[`basic text styles > tablet > games 11`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2160,7 +2196,7 @@ exports[`basic text styles > tablet > games 10`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 11`] = `
+exports[`basic text styles > tablet > games 12`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2172,7 +2208,7 @@ exports[`basic text styles > tablet > games 11`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 12`] = `
+exports[`basic text styles > tablet > games 13`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2184,7 +2220,7 @@ exports[`basic text styles > tablet > games 12`] = `
 }
 `;
 
-exports[`basic text styles > tablet > games 13`] = `
+exports[`basic text styles > tablet > games 14`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
@@ -2260,10 +2296,10 @@ exports[`basic text styles > tablet > offers 2`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "26px",
+  "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "26px",
+  "line-height": "24px",
   "text": "Год",
 }
 `;
@@ -2299,7 +2335,7 @@ exports[`basic text styles > tablet > offers 5`] = `
   "font-size": "14px",
   "font-weight": "700",
   "letter-spacing": "0.7px",
-  "line-height": "20px",
+  "line-height": "14px",
   "text": "Подробнее",
 }
 `;
