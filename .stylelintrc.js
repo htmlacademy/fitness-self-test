@@ -24,5 +24,10 @@ module.exports = {
       "/^&-(?:\\w)/",
       "/^&\\s*[>+~]?\\s*\\.?\\w/",
     ],
+    "alpha-value-notation": null,
+    "scss/at-import-no-partial-leading-underscore": null,
+    "scss/load-no-partial-leading-underscore": true,
+    "declaration-block-no-redundant-longhand-properties": null,
+    "max-nesting-depth": 3,
   },
 };

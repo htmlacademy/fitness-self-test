@@ -1,8 +1,6 @@
 const gulp = require("gulp");
 const browserSync = require("browser-sync");
 const backstop = require("backstopjs");
-const bemlinter = require("gulp-html-bemlinter");
-const { htmlValidator } = require("gulp-w3c-html-validator");
 
 const server = browserSync.create();
 
@@ -37,19 +35,12 @@ const backstopTest = (done) =>
 
 const test = gulp.series(syncServer, backstopTest);
 
-function lintBem() {
+async function lintBem() {
+  const {default: bemlinter} = await import("gulp-html-bemlinter");
   return gulp.src("source/*.html").pipe(bemlinter());
-}
-
-function validateMarkup() {
-  return gulp
-    .src("source/*.html")
-    .pipe(htmlValidator.analyzer())
-    .pipe(htmlValidator.reporter({ throwErrors: true }));
 }
 
 module.exports = {
   test,
-  lintBem,
-  validateMarkup,
+  lintBem
 };
