@@ -1348,10 +1348,10 @@ exports[`basic text styles > mobile > games 11`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "18px",
+  "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "20px",
+  "line-height": "22px",
   "text": "Анна Павлова",
 }
 `;
