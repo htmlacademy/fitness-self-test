@@ -2,14 +2,43 @@
   "name": "fitness-self-test",
   "scripts": {
     "test": "gulp test",
-    "vitest": "vitest --ui"
+    "vitest": "vitest --ui",
+    "biome-lint": "biome lint ./source",
+    "linthtml": "linthtml source",
+    "stylelint": "stylelint \"source/sass/**/*.scss\"",
+    "lint-js": "eslint source/js",
+    "ls-lint": "ls-lint",
+    "html-validate": "html-validate source/index.html",
+    "w3c": "gulp validateMarkup --silent",
+    "bemlinter": "gulp lintBem --silent",
+    "editorconfig": "editorconfig-cli"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.3.3",
+    "@htmlacademy/editorconfig-cli": "^2.0.5",
+    "@linthtml/linthtml": "^0.9.5",
+    "@ls-lint/ls-lint": "^2.1.0",
     "@vitest/ui": "^0.34.6",
     "backstopjs": "6.2.2",
     "browser-sync": "2.27.10",
+    "eslint": "^8.50.0",
+    "eslint-config-htmlacademy": "^10.0.1",
     "gulp": "4.0.2",
+    "html-validate": "^8.5.0",
+    "linthtml-config-htmlacademy": "^1.0.12",
     "puppeteer": "^21.5.0",
-    "vitest": "^0.34.6"
-  }
+    "stylelint": "^15.10.3",
+    "stylelint-config-htmlacademy": "^2.0.4",
+    "stylelint-config-sass-guidelines": "^10.0.0",
+    "stylelint-config-standard-scss": "^11.1.0",
+    "stylelint-selector-bem-pattern": "^3.0.1",
+    "vitest": "^0.34.6",
+    "w3c-html-validator": "1.5.1"
+  },
+  "editorconfig-cli": [
+    "source/*.html",
+    "source/js/**/*.js",
+    "source/img/**/*.svg",
+    "source/sass/**/*.scss"
+  ]
 }
