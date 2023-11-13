@@ -73,6 +73,8 @@ describe('basic text styles', async () => {
                 'Ежегодные соревнования',
                 'Жюри',
                 'Анна Павлова',
+                'Александр Пашков',
+                'CrossFit',
                 'Certified',
                 'Победитель чемпионата России',
                 'Опыт'
@@ -154,24 +156,33 @@ describe('basic text styles', async () => {
             await page.goto(`http://localhost:${PORT}`, {waitUntil: 'networkidle0'})
         });
         for (const { name: testName, parameters: elements } of tests) {
-            test(testName, async () => {
-                const $container = await page.$(`[data-test="${testName}"]`);
-                for (const text of elements) {
-                    const [$el] = await getByText($container, text);
-                    if (!$el) {
-                        throw new Error(`Element with text "${text}" not found`);
+            describe(testName, async () => {
+                let $container: ElementHandle<Element>;
+                beforeAll(async () => {
+                    $container = await page.$(`[data-test="${testName}"]`);
+                    for (const text of elements) {
+                        const [$el] = await getByText($container, text);
+                        if (!$el) {
+                            throw new Error(`Element with text "${text}" not found`);
+                        }
                     }
-                    const styleProperties = await page.evaluate(el => {
-                        const cssObj = getComputedStyle(el);
-                        const getProperties = (cssObj, properties) => {
-                            return properties.reduce((acc, curr) => {
-                                acc[curr] = cssObj.getPropertyValue(curr);
-                                return acc;
-                            }, {});
-                        };
-                        return getProperties(cssObj, ['font-size', 'font-family', 'line-height', 'font-weight', 'letter-spacing', 'color']);
-                    }, $el);
-                    expect({...styleProperties, text}).toMatchSnapshot();
+                })
+
+                for (const text of elements) {
+                    test(text, async () => {
+                        const [$el] = await getByText($container, text);
+                        const styleProperties = await page.evaluate(el => {
+                            const cssObj = getComputedStyle(el);
+                            const getProperties = (cssObj: CSSStyleDeclaration, properties: string[]) => {
+                                return properties.reduce((acc, curr) => {
+                                    acc[curr] = cssObj.getPropertyValue(curr);
+                                    return acc;
+                                }, {});
+                            };
+                            return getProperties(cssObj, ['font-size', 'font-family', 'line-height', 'font-weight', 'letter-spacing', 'color']);
+                        }, $el);
+                        expect({...styleProperties, text}).toMatchSnapshot();
+                    })
                 }
             });
         }
