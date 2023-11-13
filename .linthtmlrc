@@ -1,0 +1,6 @@
+{
+  "extends": ["linthtml-config-htmlacademy"],
+  "rules": {
+    "class-style": [true, "bem"]
+  }
+}

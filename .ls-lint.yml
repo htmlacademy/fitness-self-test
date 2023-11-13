@@ -1,0 +1,11 @@
+ls:
+  source:
+    .dir: kebab-case # applies for the current directory and all their subdirectories
+    .js: kebab-case
+    .css: kebab-case
+    .html: kebab-case
+
+ignore:
+  - .git
+  - node_modules
+  - build

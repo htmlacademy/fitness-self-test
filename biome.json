@@ -1,0 +1,43 @@
+{
+  "$schema": "https://biomejs.dev/schemas/1.3.3/schema.json",
+  "files": {
+    "ignore": ["**/vendor/*", "js/modules/form-validate/*"]
+  },
+  "organizeImports": {
+    "enabled": false
+  },
+  "formatter": {
+    "enabled": false
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true,
+      "a11y": {
+        "useHeadingContent": "error"
+      },
+      "complexity": {
+        "noForEach": "off",
+        "noExcessiveCognitiveComplexity": {
+          "level": "warn",
+          "options": {
+            "maxAllowedComplexity": 9
+          }
+        }
+      },
+      "correctness": {
+        "noUndeclaredVariables": "error",
+        "noUnusedVariables": "error"
+      },
+      "style": {
+        "useNamingConvention": "error"
+      },
+      "nursery": {
+        "noMisrefactoredShorthandAssign": "warn",
+        "noUnusedImports": "error",
+        "noUselessElse": "warn",
+        "noUselessLoneBlockStatements": "error"
+      }
+    }
+  }
+}
