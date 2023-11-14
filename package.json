@@ -9,6 +9,7 @@
     "html-validate": "html-validate source/index.html",
     "bemlinter": "gulp lintBem",
     "stylelint": "stylelint \"source/sass/**/*.scss\"",
+    "stylelint-fix": "stylelint \"source/sass/**/*.scss\" --fix",
     "lint-js": "eslint source/js",
     "ls-lint": "ls-lint",
     "editorconfig": "editorconfig-cli"

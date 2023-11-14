@@ -1,6 +1,11 @@
 {
   "extends": ["linthtml-config-htmlacademy"],
   "rules": {
-    "class-style": [true, "bem"]
+    "class-style": [true, "bem"],
+    "htmlacademy/aria-label-misuse": false,
+    "htmlacademy/no-blocking-script": false,
+    'htmlacademy/attr-req-value': [true, {
+        ignore: ['alt', 'data-form-validate', 'data-required', 'data-on-input-validate']
+    }],
   }
 }

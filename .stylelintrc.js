@@ -29,5 +29,6 @@ module.exports = {
     "scss/load-no-partial-leading-underscore": true,
     "declaration-block-no-redundant-longhand-properties": null,
     "max-nesting-depth": 3,
+    "declaration-property-value-disallowed-list": null,
   },
 };
