@@ -8,6 +8,8 @@ module.exports = {
   rules: {
     "plugin/selector-bem-pattern": {
       preset: "bem",
+      implicitComponents: "blocks/*.scss",
+      implicitUtilities: "global/utils.scss",
     },
     "selector-class-pattern": [
       "^[a-z]([-]?[a-z0-9]+)*(__[a-z0-9]([-]?[a-z0-9]+)*)?(--[a-z0-9]([-]?[a-z0-9]+)*)?$",
