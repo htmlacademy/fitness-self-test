@@ -39,11 +39,11 @@ exports[`basic text styles > desktop > about > самый большой фит�
 exports[`basic text styles > desktop > faq > Абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
-  "font-size": "54px",
-  "font-weight": "600",
-  "letter-spacing": "1.62px",
-  "line-height": "54px",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
   "text": "Абонемент",
 }
 `;
@@ -148,10 +148,10 @@ exports[`basic text styles > desktop > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "22px",
-  "font-weight": "400",
+  "font-size": "70px",
+  "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "22px",
+  "line-height": "70px",
   "text": "900",
 }
 `;
@@ -218,24 +218,24 @@ exports[`basic text styles > desktop > features > Тренажеров 1`] = `
 
 exports[`basic text styles > desktop > features > кв/м 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(46, 53, 172)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "22px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "22px",
+  "line-height": "14px",
   "text": "кв/м",
 }
 `;
 
 exports[`basic text styles > desktop > footer > 8-800-555-55-55 1`] = `
 {
-  "color": "rgb(255, 255, 255)",
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "26px",
-  "font-weight": "700",
+  "font-size": "14px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "26px",
+  "line-height": "22px",
   "text": "8-800-555-55-55",
 }
 `;
@@ -278,12 +278,12 @@ exports[`basic text styles > desktop > footer > omsk@supergym.ru 1`] = `
 
 exports[`basic text styles > desktop > footer > Абонементы 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
-  "font-size": "54px",
-  "font-weight": "600",
-  "letter-spacing": "1.62px",
-  "line-height": "54px",
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
   "text": "Абонементы",
 }
 `;
@@ -374,24 +374,24 @@ exports[`basic text styles > desktop > footer > Телефон: 1`] = `
 
 exports[`basic text styles > desktop > footer > Услуги 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "18px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "18px",
+  "line-height": "22px",
   "text": "Услуги",
 }
 `;
 
 exports[`basic text styles > desktop > games > 7 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "300",
+  "font-size": "40px",
+  "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "24px",
+  "line-height": "40px",
   "text": "7",
 }
 `;
@@ -794,7 +794,7 @@ exports[`basic text styles > desktop > price > Дневной 1`] = `
 
 exports[`basic text styles > desktop > price > Купить абонемент 1`] = `
 {
-  "color": "rgb(255, 255, 255)",
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
@@ -903,11 +903,11 @@ exports[`basic text styles > mobile > about > самый большой фитн
 exports[`basic text styles > mobile > faq > Абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
-  "font-size": "32px",
-  "font-weight": "600",
-  "letter-spacing": "0.96px",
-  "line-height": "32px",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "16px",
   "text": "Абонемент",
 }
 `;
@@ -1012,10 +1012,10 @@ exports[`basic text styles > mobile > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "18px",
-  "font-weight": "400",
+  "font-size": "58px",
+  "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "20px",
+  "line-height": "58px",
   "text": "900",
 }
 `;
@@ -1082,24 +1082,24 @@ exports[`basic text styles > mobile > features > Тренажеров 1`] = `
 
 exports[`basic text styles > mobile > features > кв/м 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(46, 53, 172)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "18px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "20px",
+  "line-height": "14px",
   "text": "кв/м",
 }
 `;
 
 exports[`basic text styles > mobile > footer > 8-800-555-55-55 1`] = `
 {
-  "color": "rgb(255, 255, 255)",
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "22px",
-  "font-weight": "700",
+  "font-size": "14px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "22px",
+  "line-height": "20px",
   "text": "8-800-555-55-55",
 }
 `;
@@ -1142,12 +1142,12 @@ exports[`basic text styles > mobile > footer > omsk@supergym.ru 1`] = `
 
 exports[`basic text styles > mobile > footer > Абонементы 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
-  "font-size": "32px",
-  "font-weight": "600",
-  "letter-spacing": "0.96px",
-  "line-height": "32px",
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "16px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
   "text": "Абонементы",
 }
 `;
@@ -1238,24 +1238,24 @@ exports[`basic text styles > mobile > footer > Телефон: 1`] = `
 
 exports[`basic text styles > mobile > footer > Услуги 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "16px",
+  "line-height": "22px",
   "text": "Услуги",
 }
 `;
 
 exports[`basic text styles > mobile > games > 7 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "14px",
-  "font-weight": "300",
+  "font-size": "24px",
+  "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "22px",
+  "line-height": "24px",
   "text": "7",
 }
 `;
@@ -1658,7 +1658,7 @@ exports[`basic text styles > mobile > price > Дневной 1`] = `
 
 exports[`basic text styles > mobile > price > Купить абонемент 1`] = `
 {
-  "color": "rgb(255, 255, 255)",
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
@@ -1767,11 +1767,11 @@ exports[`basic text styles > tablet > about > самый большой фитн
 exports[`basic text styles > tablet > faq > Абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
-  "font-size": "42px",
-  "font-weight": "600",
-  "letter-spacing": "1.26px",
-  "line-height": "42px",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "18px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "18px",
   "text": "Абонемент",
 }
 `;
@@ -1876,10 +1876,10 @@ exports[`basic text styles > tablet > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "20px",
-  "font-weight": "400",
+  "font-size": "58px",
+  "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "20px",
+  "line-height": "58px",
   "text": "900",
 }
 `;
@@ -1946,24 +1946,24 @@ exports[`basic text styles > tablet > features > Тренажеров 1`] = `
 
 exports[`basic text styles > tablet > features > кв/м 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(46, 53, 172)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "20px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "20px",
+  "line-height": "14px",
   "text": "кв/м",
 }
 `;
 
 exports[`basic text styles > tablet > footer > 8-800-555-55-55 1`] = `
 {
-  "color": "rgb(255, 255, 255)",
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "24px",
-  "font-weight": "700",
+  "font-size": "14px",
+  "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "24px",
+  "line-height": "22px",
   "text": "8-800-555-55-55",
 }
 `;
@@ -2006,12 +2006,12 @@ exports[`basic text styles > tablet > footer > omsk@supergym.ru 1`] = `
 
 exports[`basic text styles > tablet > footer > Абонементы 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
-  "font-size": "42px",
-  "font-weight": "600",
-  "letter-spacing": "1.26px",
-  "line-height": "42px",
+  "color": "rgb(255, 255, 255)",
+  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
+  "font-size": "14px",
+  "font-weight": "400",
+  "letter-spacing": "normal",
+  "line-height": "22px",
   "text": "Абонементы",
 }
 `;
@@ -2102,22 +2102,22 @@ exports[`basic text styles > tablet > footer > Телефон: 1`] = `
 
 exports[`basic text styles > tablet > footer > Услуги 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "18px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "18px",
+  "line-height": "22px",
   "text": "Услуги",
 }
 `;
 
 exports[`basic text styles > tablet > games > 7 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
-  "font-weight": "300",
+  "font-size": "24px",
+  "font-weight": "700",
   "letter-spacing": "normal",
   "line-height": "24px",
   "text": "7",
@@ -2522,7 +2522,7 @@ exports[`basic text styles > tablet > price > Дневной 1`] = `
 
 exports[`basic text styles > tablet > price > Купить абонемент 1`] = `
 {
-  "color": "rgb(255, 255, 255)",
+  "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",

@@ -31,7 +31,7 @@ describe('basic text styles', async () => {
     })
 
     const getByText = ($container: ElementHandle<Element>, text: string) => {
-        return $container.$$(`xpath///*[contains(text(), '${text}')]`)
+        return $container.$$(`xpath/.//*[contains(text(), '${text}')]`)
     }
 
 
