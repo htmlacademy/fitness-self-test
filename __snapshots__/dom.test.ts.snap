@@ -722,7 +722,7 @@ exports[`basic text styles > desktop > offers > Приведи друга 1`] = 
 
 exports[`basic text styles > desktop > offers > Скидка 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
@@ -1586,7 +1586,7 @@ exports[`basic text styles > mobile > offers > Приведи друга 1`] = `
 
 exports[`basic text styles > mobile > offers > Скидка 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
@@ -2450,7 +2450,7 @@ exports[`basic text styles > tablet > offers > Приведи друга 1`] = `
 
 exports[`basic text styles > tablet > offers > Скидка 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
