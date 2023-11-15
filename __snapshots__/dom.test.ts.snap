@@ -223,7 +223,7 @@ exports[`basic text styles > desktop > features > кв/м 1`] = `
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "14px",
+  "line-height": "22px",
   "text": "кв/м",
 }
 `;
@@ -1012,10 +1012,10 @@ exports[`basic text styles > mobile > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "58px",
+  "font-size": "64px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "58px",
+  "line-height": "64px",
   "text": "900",
 }
 `;
@@ -1087,7 +1087,7 @@ exports[`basic text styles > mobile > features > кв/м 1`] = `
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "14px",
+  "line-height": "20px",
   "text": "кв/м",
 }
 `;
@@ -1144,7 +1144,7 @@ exports[`basic text styles > mobile > footer > Абонементы 1`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
   "line-height": "22px",
@@ -1240,7 +1240,7 @@ exports[`basic text styles > mobile > footer > Услуги 1`] = `
 {
   "color": "rgb(255, 255, 255)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "16px",
+  "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
   "line-height": "22px",
@@ -1876,10 +1876,10 @@ exports[`basic text styles > tablet > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
-  "font-size": "58px",
+  "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
-  "line-height": "58px",
+  "line-height": "70px",
   "text": "900",
 }
 `;
@@ -1951,7 +1951,7 @@ exports[`basic text styles > tablet > features > кв/м 1`] = `
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "14px",
+  "line-height": "22px",
   "text": "кв/м",
 }
 `;
