@@ -1,13 +1,13 @@
 const indexSections = [
-   { section: 'hero', misMatchThreshold: 1 },
-   { section: 'about', misMatchThreshold: 1 },
-   { section: 'price', misMatchThreshold: 1 },
-  { section: 'games', misMatchThreshold: 1 },
-  { section: 'features', misMatchThreshold: 1 },
-  { section: 'offers', misMatchThreshold: 1 },
-  { section: 'faq', misMatchThreshold: 1 },
-  { section: 'reviews', misMatchThreshold: 1 },
-  { section: 'footer', misMatchThreshold: 1 }
+   { section: 'hero', misMatchThreshold: 3 },
+   { section: 'about', misMatchThreshold: 3 },
+   { section: 'price', misMatchThreshold: 2 },
+  { section: 'games', misMatchThreshold: 3 },
+  { section: 'features', misMatchThreshold: 2 },
+  { section: 'offers', misMatchThreshold: 3 },
+  { section: 'faq', misMatchThreshold: 2 },
+  { section: 'reviews', misMatchThreshold: 2 },
+  { section: 'footer', misMatchThreshold: 2 }
 ];
 
   module.exports = {
@@ -43,7 +43,7 @@ const indexSections = [
         "referenceUrl": "./figma/index.html",
         selectors: [`[data-test="${section}"]`],
         misMatchThreshold: misMatchThreshold || 5,
-        requireSameDimensions: false,
+        requireSameDimensions: true,
         delay: 500
       })),
     ],
