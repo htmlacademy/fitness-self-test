@@ -674,7 +674,7 @@ exports[`basic text styles > desktop > offers > Год 1`] = `
 
 exports[`basic text styles > desktop > offers > Корпоративный фитнес 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
@@ -686,7 +686,7 @@ exports[`basic text styles > desktop > offers > Корпоративный фи�
 
 exports[`basic text styles > desktop > offers > Месяц бесплатно 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
@@ -710,7 +710,7 @@ exports[`basic text styles > desktop > offers > Подробнее 1`] = `
 
 exports[`basic text styles > desktop > offers > Приведи друга 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
@@ -1538,7 +1538,7 @@ exports[`basic text styles > mobile > offers > Год 1`] = `
 
 exports[`basic text styles > mobile > offers > Корпоративный фитнес 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
@@ -1550,7 +1550,7 @@ exports[`basic text styles > mobile > offers > Корпоративный фит
 
 exports[`basic text styles > mobile > offers > Месяц бесплатно 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
@@ -1574,7 +1574,7 @@ exports[`basic text styles > mobile > offers > Подробнее 1`] = `
 
 exports[`basic text styles > mobile > offers > Приведи друга 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
@@ -2402,7 +2402,7 @@ exports[`basic text styles > tablet > offers > Год 1`] = `
 
 exports[`basic text styles > tablet > offers > Корпоративный фитнес 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
@@ -2414,7 +2414,7 @@ exports[`basic text styles > tablet > offers > Корпоративный фит
 
 exports[`basic text styles > tablet > offers > Месяц бесплатно 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
@@ -2438,7 +2438,7 @@ exports[`basic text styles > tablet > offers > Подробнее 1`] = `
 
 exports[`basic text styles > tablet > offers > Приведи друга 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(28, 51, 116)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
