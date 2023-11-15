@@ -160,10 +160,13 @@ describe('basic text styles', async () => {
                 let $container: ElementHandle<Element>;
                 beforeAll(async () => {
                     $container = await page.$(`[data-test="${testName}"]`);
+                    if (!$container) {
+                        throw new Error(`Container with data-test="${testName}" not found`);
+                    }
                     for (const text of elements) {
                         const [$el] = await getByText($container, text);
                         if (!$el) {
-                            throw new Error(`Element with text "${text}" not found`);
+                            throw new Error(`Element with text "${text}" not found in ${testName} container`);
                         }
                     }
                 })
