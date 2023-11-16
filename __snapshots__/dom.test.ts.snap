@@ -1682,7 +1682,7 @@ exports[`basic text styles > mobile > price > С тренером 1`] = `
 
 exports[`basic text styles > mobile > price > с 8:00 до 17:00 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(73, 90, 125)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
@@ -2546,7 +2546,7 @@ exports[`basic text styles > tablet > price > С тренером 1`] = `
 
 exports[`basic text styles > tablet > price > с 8:00 до 17:00 1`] = `
 {
-  "color": "rgb(16, 38, 84)",
+  "color": "rgb(73, 90, 125)",
   "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
