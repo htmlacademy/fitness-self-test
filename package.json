@@ -1,4 +1,4 @@
-{
+it{
   "name": "fitness-self-test",
   "scripts": {
     "test": "gulp test",

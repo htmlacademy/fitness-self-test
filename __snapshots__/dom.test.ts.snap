@@ -1147,7 +1147,7 @@ exports[`basic text styles > mobile > footer > Абонементы 1`] = `
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "22px",
+  "line-height": "20px",
   "text": "Абонементы",
 }
 `;
@@ -1243,7 +1243,7 @@ exports[`basic text styles > mobile > footer > Услуги 1`] = `
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
-  "line-height": "22px",
+  "line-height": "20px",
   "text": "Услуги",
 }
 `;
