@@ -32,5 +32,16 @@ module.exports = {
     "declaration-block-no-redundant-longhand-properties": null,
     "max-nesting-depth": 3,
     "declaration-property-value-disallowed-list": null,
+    "declaration-empty-line-before": [
+      "always",
+      {
+        except: ["first-nested"],
+        ignore: [
+          "after-comment",
+          "inside-single-line-block",
+          "after-declaration",
+        ],
+      },
+    ],
   },
 };
