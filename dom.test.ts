@@ -30,8 +30,9 @@ describe('basic text styles', async () => {
         })
     })
 
-    const getByText = ($container: ElementHandle<Element>, text: string) => {
-        return $container.$$(`xpath/.//*[contains(text(), '${text}')]`)
+    const getByText = async ($container: ElementHandle<Element>, text: string) => {
+      const [$el] = await $container.$$(`xpath/.//*[text()='${text}']`)
+      return $el ?  [$el] :  $container.$$(`xpath/.//*[contains(text(), '${text}')]`)
     }
 
 
@@ -63,6 +64,7 @@ describe('basic text styles', async () => {
             name: 'games',
             parameters: [
                 'Super games',
+                // 'SUPER GAMES',
                 'Дата',
                 '7',
                 'Марта',
@@ -163,17 +165,14 @@ describe('basic text styles', async () => {
                     if (!$container) {
                         throw new Error(`Container with data-test="${testName}" not found`);
                     }
-                    for (const text of elements) {
-                        const [$el] = await getByText($container, text);
-                        if (!$el) {
-                            throw new Error(`Element with text "${text}" not found in ${testName} container`);
-                        }
-                    }
                 })
 
                 for (const text of elements) {
                     test(text, async () => {
                         const [$el] = await getByText($container, text);
+                        if (!$el) {
+                          throw new Error(`Element with text "${text}" not found in ${testName} container`);
+                        }
                         const styleProperties = await page.evaluate(el => {
                             const cssObj = getComputedStyle(el);
                             const getProperties = (cssObj: CSSStyleDeclaration, properties: string[]) => {
