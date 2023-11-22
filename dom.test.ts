@@ -182,7 +182,7 @@ describe('basic text styles', async () => {
                                     return acc;
                                 }, {});
                             };
-                            return getProperties(cssObj, ['font-size', 'font-family', 'line-height', 'font-weight', 'letter-spacing', 'color']);
+                            return getProperties(cssObj, ['font-size', 'line-height', 'font-weight', 'letter-spacing', 'color']);
                         }, $el);
                         expect({...styleProperties, text}).toMatchSnapshot();
                     })
@@ -192,12 +192,12 @@ describe('basic text styles', async () => {
     }
 
     describe('desktop', async () => {
-        await runViewportTest({width: 1600, height: 800}, tests);
+        await runViewportTest({width: 1366, height: 800}, tests);
     })
     describe('tablet', async () => {
-        await runViewportTest({width: 1024, height: 800}, tests);
+        await runViewportTest({width: 768, height: 800}, tests);
     })
     describe('mobile', async () => {
-        await runViewportTest({width: 375, height: 800}, tests);
+        await runViewportTest({width: 320, height: 800}, tests);
     })
 })

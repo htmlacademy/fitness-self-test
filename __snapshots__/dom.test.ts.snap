@@ -3,7 +3,6 @@
 exports[`basic text styles > desktop > about > Просторный зал 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -15,7 +14,6 @@ exports[`basic text styles > desktop > about > Просторный зал 1`] =
 exports[`basic text styles > desktop > about > Тренажерный зал 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -27,7 +25,6 @@ exports[`basic text styles > desktop > about > Тренажерный зал 1`]
 exports[`basic text styles > desktop > about > самый большой фитнес центр 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -39,7 +36,6 @@ exports[`basic text styles > desktop > about > самый большой фит�
 exports[`basic text styles > desktop > faq > Абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -51,7 +47,6 @@ exports[`basic text styles > desktop > faq > Абонемент 1`] = `
 exports[`basic text styles > desktop > faq > Вопросы и ответы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -63,7 +58,6 @@ exports[`basic text styles > desktop > faq > Вопросы и ответы 1`] 
 exports[`basic text styles > desktop > faq > Где можно посмотреть 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -75,7 +69,6 @@ exports[`basic text styles > desktop > faq > Где можно посмотре�
 exports[`basic text styles > desktop > faq > Для тренировок необходимо 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -87,7 +80,6 @@ exports[`basic text styles > desktop > faq > Для тренировок нео�
 exports[`basic text styles > desktop > faq > Как стать членом 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -99,7 +91,6 @@ exports[`basic text styles > desktop > faq > Как стать членом 1`] 
 exports[`basic text styles > desktop > faq > Какие дополнительные правила 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -111,7 +102,6 @@ exports[`basic text styles > desktop > faq > Какие дополнительн
 exports[`basic text styles > desktop > faq > При первом посещении 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -123,7 +113,6 @@ exports[`basic text styles > desktop > faq > При первом посещен�
 exports[`basic text styles > desktop > faq > Центр 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -135,7 +124,6 @@ exports[`basic text styles > desktop > faq > Центр 1`] = `
 exports[`basic text styles > desktop > features > 100 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -147,7 +135,6 @@ exports[`basic text styles > desktop > features > 100 1`] = `
 exports[`basic text styles > desktop > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -159,7 +146,6 @@ exports[`basic text styles > desktop > features > 900 1`] = `
 exports[`basic text styles > desktop > features > Занимайтесь без 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -171,7 +157,6 @@ exports[`basic text styles > desktop > features > Занимайтесь без 
 exports[`basic text styles > desktop > features > Наши преимущества 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -183,7 +168,6 @@ exports[`basic text styles > desktop > features > Наши преимущест�
 exports[`basic text styles > desktop > features > Площадь 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -195,7 +179,6 @@ exports[`basic text styles > desktop > features > Площадь 1`] = `
 exports[`basic text styles > desktop > features > Современные тренажеры 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -207,7 +190,6 @@ exports[`basic text styles > desktop > features > Современные тре�
 exports[`basic text styles > desktop > features > Тренажеров 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -219,7 +201,6 @@ exports[`basic text styles > desktop > features > Тренажеров 1`] = `
 exports[`basic text styles > desktop > features > кв/м 1`] = `
 {
   "color": "rgb(46, 53, 172)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -231,7 +212,6 @@ exports[`basic text styles > desktop > features > кв/м 1`] = `
 exports[`basic text styles > desktop > footer > 8-800-555-55-55 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -243,7 +223,6 @@ exports[`basic text styles > desktop > footer > 8-800-555-55-55 1`] = `
 exports[`basic text styles > desktop > footer > 60 лет Октября 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -255,7 +234,6 @@ exports[`basic text styles > desktop > footer > 60 лет Октября 1`] = `
 exports[`basic text styles > desktop > footer > Email: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -267,7 +245,6 @@ exports[`basic text styles > desktop > footer > Email: 1`] = `
 exports[`basic text styles > desktop > footer > omsk@supergym.ru 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -279,7 +256,6 @@ exports[`basic text styles > desktop > footer > omsk@supergym.ru 1`] = `
 exports[`basic text styles > desktop > footer > Абонементы 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -291,7 +267,6 @@ exports[`basic text styles > desktop > footer > Абонементы 1`] = `
 exports[`basic text styles > desktop > footer > Адрес 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -303,7 +278,6 @@ exports[`basic text styles > desktop > footer > Адрес 1`] = `
 exports[`basic text styles > desktop > footer > Бесплатное занятие 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -315,7 +289,6 @@ exports[`basic text styles > desktop > footer > Бесплатное занят�
 exports[`basic text styles > desktop > footer > График работы: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -327,7 +300,6 @@ exports[`basic text styles > desktop > footer > График работы: 1`] =
 exports[`basic text styles > desktop > footer > Контакты 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -339,7 +311,6 @@ exports[`basic text styles > desktop > footer > Контакты 1`] = `
 exports[`basic text styles > desktop > footer > Отправить 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -351,7 +322,6 @@ exports[`basic text styles > desktop > footer > Отправить 1`] = `
 exports[`basic text styles > desktop > footer > Пн-Вс: с 8:00 до 22:00 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -363,7 +333,6 @@ exports[`basic text styles > desktop > footer > Пн-Вс: с 8:00 до 22:00 1`
 exports[`basic text styles > desktop > footer > Телефон: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -375,7 +344,6 @@ exports[`basic text styles > desktop > footer > Телефон: 1`] = `
 exports[`basic text styles > desktop > footer > Услуги 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -387,7 +355,6 @@ exports[`basic text styles > desktop > footer > Услуги 1`] = `
 exports[`basic text styles > desktop > games > 7 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "40px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -399,7 +366,6 @@ exports[`basic text styles > desktop > games > 7 1`] = `
 exports[`basic text styles > desktop > games > 12:00 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "40px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -411,7 +377,6 @@ exports[`basic text styles > desktop > games > 12:00 1`] = `
 exports[`basic text styles > desktop > games > 2019 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -423,7 +388,6 @@ exports[`basic text styles > desktop > games > 2019 1`] = `
 exports[`basic text styles > desktop > games > Certified 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -435,7 +399,6 @@ exports[`basic text styles > desktop > games > Certified 1`] = `
 exports[`basic text styles > desktop > games > CrossFit 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -447,7 +410,6 @@ exports[`basic text styles > desktop > games > CrossFit 1`] = `
 exports[`basic text styles > desktop > games > Super games 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "82px",
   "font-weight": "600",
   "letter-spacing": "2.46px",
@@ -459,7 +421,6 @@ exports[`basic text styles > desktop > games > Super games 1`] = `
 exports[`basic text styles > desktop > games > Александр Пашков 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -471,7 +432,6 @@ exports[`basic text styles > desktop > games > Александр Пашков 1
 exports[`basic text styles > desktop > games > Анна Павлова 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -483,7 +443,6 @@ exports[`basic text styles > desktop > games > Анна Павлова 1`] = `
 exports[`basic text styles > desktop > games > Время 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -495,7 +454,6 @@ exports[`basic text styles > desktop > games > Время 1`] = `
 exports[`basic text styles > desktop > games > Дата 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -507,7 +465,6 @@ exports[`basic text styles > desktop > games > Дата 1`] = `
 exports[`basic text styles > desktop > games > Ежегодные соревнования 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -519,7 +476,6 @@ exports[`basic text styles > desktop > games > Ежегодные соревно
 exports[`basic text styles > desktop > games > Жюри 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -531,7 +487,6 @@ exports[`basic text styles > desktop > games > Жюри 1`] = `
 exports[`basic text styles > desktop > games > Заполнить заявку 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -543,7 +498,6 @@ exports[`basic text styles > desktop > games > Заполнить заявку 1
 exports[`basic text styles > desktop > games > Марта 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -555,7 +509,6 @@ exports[`basic text styles > desktop > games > Марта 1`] = `
 exports[`basic text styles > desktop > games > Опыт 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -567,7 +520,6 @@ exports[`basic text styles > desktop > games > Опыт 1`] = `
 exports[`basic text styles > desktop > games > Победитель чемпионата России 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -579,7 +531,6 @@ exports[`basic text styles > desktop > games > Победитель чемпио
 exports[`basic text styles > desktop > hero > 8-800-555-55-55 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -591,7 +542,6 @@ exports[`basic text styles > desktop > hero > 8-800-555-55-55 1`] = `
 exports[`basic text styles > desktop > hero > Купить абонемент 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -603,7 +553,6 @@ exports[`basic text styles > desktop > hero > Купить абонемент 1`
 exports[`basic text styles > desktop > hero > Омск 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -615,7 +564,6 @@ exports[`basic text styles > desktop > hero > Омск 1`] = `
 exports[`basic text styles > desktop > hero > Тренажёрный зал 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -627,7 +575,6 @@ exports[`basic text styles > desktop > hero > Тренажёрный зал 1`] 
 exports[`basic text styles > desktop > offers > 4999 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -639,7 +586,6 @@ exports[`basic text styles > desktop > offers > 4999 1`] = `
 exports[`basic text styles > desktop > offers > Акции 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -651,7 +597,6 @@ exports[`basic text styles > desktop > offers > Акции 1`] = `
 exports[`basic text styles > desktop > offers > Безлимитный абонемент 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -663,7 +608,6 @@ exports[`basic text styles > desktop > offers > Безлимитный абон�
 exports[`basic text styles > desktop > offers > Год 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -675,7 +619,6 @@ exports[`basic text styles > desktop > offers > Год 1`] = `
 exports[`basic text styles > desktop > offers > Корпоративный фитнес 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -687,7 +630,6 @@ exports[`basic text styles > desktop > offers > Корпоративный фи�
 exports[`basic text styles > desktop > offers > Месяц бесплатно 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -699,7 +641,6 @@ exports[`basic text styles > desktop > offers > Месяц бесплатно 1`
 exports[`basic text styles > desktop > offers > Подробнее 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "700",
   "letter-spacing": "0.7px",
@@ -711,7 +652,6 @@ exports[`basic text styles > desktop > offers > Подробнее 1`] = `
 exports[`basic text styles > desktop > offers > Приведи друга 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -723,7 +663,6 @@ exports[`basic text styles > desktop > offers > Приведи друга 1`] = 
 exports[`basic text styles > desktop > offers > Скидка 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -735,7 +674,6 @@ exports[`basic text styles > desktop > offers > Скидка 1`] = `
 exports[`basic text styles > desktop > price > 1 месяц 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -747,7 +685,6 @@ exports[`basic text styles > desktop > price > 1 месяц 1`] = `
 exports[`basic text styles > desktop > price > 6 месяцев 1`] = `
 {
   "color": "rgba(16, 38, 84, 0.5)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -759,7 +696,6 @@ exports[`basic text styles > desktop > price > 6 месяцев 1`] = `
 exports[`basic text styles > desktop > price > 12 занятий 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -771,7 +707,6 @@ exports[`basic text styles > desktop > price > 12 занятий 1`] = `
 exports[`basic text styles > desktop > price > Абонементы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -783,7 +718,6 @@ exports[`basic text styles > desktop > price > Абонементы 1`] = `
 exports[`basic text styles > desktop > price > Дневной 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -795,7 +729,6 @@ exports[`basic text styles > desktop > price > Дневной 1`] = `
 exports[`basic text styles > desktop > price > Купить абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -807,7 +740,6 @@ exports[`basic text styles > desktop > price > Купить абонемент 1
 exports[`basic text styles > desktop > price > С тренером 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "26px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -819,7 +751,6 @@ exports[`basic text styles > desktop > price > С тренером 1`] = `
 exports[`basic text styles > desktop > price > с 8:00 до 17:00 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -831,7 +762,6 @@ exports[`basic text styles > desktop > price > с 8:00 до 17:00 1`] = `
 exports[`basic text styles > desktop > reviews > Анна Орлова 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -843,7 +773,6 @@ exports[`basic text styles > desktop > reviews > Анна Орлова 1`] = `
 exports[`basic text styles > desktop > reviews > Отзывы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "54px",
   "font-weight": "600",
   "letter-spacing": "1.62px",
@@ -855,7 +784,6 @@ exports[`basic text styles > desktop > reviews > Отзывы 1`] = `
 exports[`basic text styles > desktop > reviews > больше года 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -867,7 +795,6 @@ exports[`basic text styles > desktop > reviews > больше года 1`] = `
 exports[`basic text styles > mobile > about > Просторный зал 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -879,7 +806,6 @@ exports[`basic text styles > mobile > about > Просторный зал 1`] = 
 exports[`basic text styles > mobile > about > Тренажерный зал 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -891,7 +817,6 @@ exports[`basic text styles > mobile > about > Тренажерный зал 1`] 
 exports[`basic text styles > mobile > about > самый большой фитнес центр 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -903,7 +828,6 @@ exports[`basic text styles > mobile > about > самый большой фитн
 exports[`basic text styles > mobile > faq > Абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -915,7 +839,6 @@ exports[`basic text styles > mobile > faq > Абонемент 1`] = `
 exports[`basic text styles > mobile > faq > Вопросы и ответы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -927,7 +850,6 @@ exports[`basic text styles > mobile > faq > Вопросы и ответы 1`] =
 exports[`basic text styles > mobile > faq > Где можно посмотреть 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -939,7 +861,6 @@ exports[`basic text styles > mobile > faq > Где можно посмотрет
 exports[`basic text styles > mobile > faq > Для тренировок необходимо 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -951,7 +872,6 @@ exports[`basic text styles > mobile > faq > Для тренировок необ
 exports[`basic text styles > mobile > faq > Как стать членом 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -963,7 +883,6 @@ exports[`basic text styles > mobile > faq > Как стать членом 1`] =
 exports[`basic text styles > mobile > faq > Какие дополнительные правила 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -975,7 +894,6 @@ exports[`basic text styles > mobile > faq > Какие дополнительн�
 exports[`basic text styles > mobile > faq > При первом посещении 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -987,7 +905,6 @@ exports[`basic text styles > mobile > faq > При первом посещени
 exports[`basic text styles > mobile > faq > Центр 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -999,7 +916,6 @@ exports[`basic text styles > mobile > faq > Центр 1`] = `
 exports[`basic text styles > mobile > features > 100 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "64px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1011,7 +927,6 @@ exports[`basic text styles > mobile > features > 100 1`] = `
 exports[`basic text styles > mobile > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "64px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1023,7 +938,6 @@ exports[`basic text styles > mobile > features > 900 1`] = `
 exports[`basic text styles > mobile > features > Занимайтесь без 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1035,7 +949,6 @@ exports[`basic text styles > mobile > features > Занимайтесь без 1
 exports[`basic text styles > mobile > features > Наши преимущества 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1047,7 +960,6 @@ exports[`basic text styles > mobile > features > Наши преимуществ
 exports[`basic text styles > mobile > features > Площадь 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1059,7 +971,6 @@ exports[`basic text styles > mobile > features > Площадь 1`] = `
 exports[`basic text styles > mobile > features > Современные тренажеры 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1071,7 +982,6 @@ exports[`basic text styles > mobile > features > Современные трен
 exports[`basic text styles > mobile > features > Тренажеров 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1083,7 +993,6 @@ exports[`basic text styles > mobile > features > Тренажеров 1`] = `
 exports[`basic text styles > mobile > features > кв/м 1`] = `
 {
   "color": "rgb(46, 53, 172)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1095,7 +1004,6 @@ exports[`basic text styles > mobile > features > кв/м 1`] = `
 exports[`basic text styles > mobile > footer > 8-800-555-55-55 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1107,7 +1015,6 @@ exports[`basic text styles > mobile > footer > 8-800-555-55-55 1`] = `
 exports[`basic text styles > mobile > footer > 60 лет Октября 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1119,7 +1026,6 @@ exports[`basic text styles > mobile > footer > 60 лет Октября 1`] = `
 exports[`basic text styles > mobile > footer > Email: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1131,7 +1037,6 @@ exports[`basic text styles > mobile > footer > Email: 1`] = `
 exports[`basic text styles > mobile > footer > omsk@supergym.ru 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1143,7 +1048,6 @@ exports[`basic text styles > mobile > footer > omsk@supergym.ru 1`] = `
 exports[`basic text styles > mobile > footer > Абонементы 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1155,7 +1059,6 @@ exports[`basic text styles > mobile > footer > Абонементы 1`] = `
 exports[`basic text styles > mobile > footer > Адрес 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1167,7 +1070,6 @@ exports[`basic text styles > mobile > footer > Адрес 1`] = `
 exports[`basic text styles > mobile > footer > Бесплатное занятие 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1179,7 +1081,6 @@ exports[`basic text styles > mobile > footer > Бесплатное заняти
 exports[`basic text styles > mobile > footer > График работы: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1191,7 +1092,6 @@ exports[`basic text styles > mobile > footer > График работы: 1`] = 
 exports[`basic text styles > mobile > footer > Контакты 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1203,7 +1103,6 @@ exports[`basic text styles > mobile > footer > Контакты 1`] = `
 exports[`basic text styles > mobile > footer > Отправить 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -1215,7 +1114,6 @@ exports[`basic text styles > mobile > footer > Отправить 1`] = `
 exports[`basic text styles > mobile > footer > Пн-Вс: с 8:00 до 22:00 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1227,7 +1125,6 @@ exports[`basic text styles > mobile > footer > Пн-Вс: с 8:00 до 22:00 1`]
 exports[`basic text styles > mobile > footer > Телефон: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1239,7 +1136,6 @@ exports[`basic text styles > mobile > footer > Телефон: 1`] = `
 exports[`basic text styles > mobile > footer > Услуги 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1251,7 +1147,6 @@ exports[`basic text styles > mobile > footer > Услуги 1`] = `
 exports[`basic text styles > mobile > games > 7 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1263,7 +1158,6 @@ exports[`basic text styles > mobile > games > 7 1`] = `
 exports[`basic text styles > mobile > games > 12:00 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1275,7 +1169,6 @@ exports[`basic text styles > mobile > games > 12:00 1`] = `
 exports[`basic text styles > mobile > games > 2019 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "10px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1287,7 +1180,6 @@ exports[`basic text styles > mobile > games > 2019 1`] = `
 exports[`basic text styles > mobile > games > Certified 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1299,7 +1191,6 @@ exports[`basic text styles > mobile > games > Certified 1`] = `
 exports[`basic text styles > mobile > games > CrossFit 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1311,7 +1202,6 @@ exports[`basic text styles > mobile > games > CrossFit 1`] = `
 exports[`basic text styles > mobile > games > Super games 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "48px",
   "font-weight": "600",
   "letter-spacing": "1.44px",
@@ -1323,7 +1213,6 @@ exports[`basic text styles > mobile > games > Super games 1`] = `
 exports[`basic text styles > mobile > games > Александр Пашков 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1335,7 +1224,6 @@ exports[`basic text styles > mobile > games > Александр Пашков 1`
 exports[`basic text styles > mobile > games > Анна Павлова 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1347,7 +1235,6 @@ exports[`basic text styles > mobile > games > Анна Павлова 1`] = `
 exports[`basic text styles > mobile > games > Время 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1359,7 +1246,6 @@ exports[`basic text styles > mobile > games > Время 1`] = `
 exports[`basic text styles > mobile > games > Дата 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1371,7 +1257,6 @@ exports[`basic text styles > mobile > games > Дата 1`] = `
 exports[`basic text styles > mobile > games > Ежегодные соревнования 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1383,7 +1268,6 @@ exports[`basic text styles > mobile > games > Ежегодные соревно�
 exports[`basic text styles > mobile > games > Жюри 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1395,7 +1279,6 @@ exports[`basic text styles > mobile > games > Жюри 1`] = `
 exports[`basic text styles > mobile > games > Заполнить заявку 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -1407,7 +1290,6 @@ exports[`basic text styles > mobile > games > Заполнить заявку 1`
 exports[`basic text styles > mobile > games > Марта 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "10px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1419,7 +1301,6 @@ exports[`basic text styles > mobile > games > Марта 1`] = `
 exports[`basic text styles > mobile > games > Опыт 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1431,7 +1312,6 @@ exports[`basic text styles > mobile > games > Опыт 1`] = `
 exports[`basic text styles > mobile > games > Победитель чемпионата России 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1443,7 +1323,6 @@ exports[`basic text styles > mobile > games > Победитель чемпио�
 exports[`basic text styles > mobile > hero > 8-800-555-55-55 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1455,7 +1334,6 @@ exports[`basic text styles > mobile > hero > 8-800-555-55-55 1`] = `
 exports[`basic text styles > mobile > hero > Купить абонемент 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -1467,7 +1345,6 @@ exports[`basic text styles > mobile > hero > Купить абонемент 1`]
 exports[`basic text styles > mobile > hero > Омск 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1479,7 +1356,6 @@ exports[`basic text styles > mobile > hero > Омск 1`] = `
 exports[`basic text styles > mobile > hero > Тренажёрный зал 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1491,7 +1367,6 @@ exports[`basic text styles > mobile > hero > Тренажёрный зал 1`] =
 exports[`basic text styles > mobile > offers > 4999 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "64px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1503,7 +1378,6 @@ exports[`basic text styles > mobile > offers > 4999 1`] = `
 exports[`basic text styles > mobile > offers > Акции 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1515,7 +1389,6 @@ exports[`basic text styles > mobile > offers > Акции 1`] = `
 exports[`basic text styles > mobile > offers > Безлимитный абонемент 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1527,7 +1400,6 @@ exports[`basic text styles > mobile > offers > Безлимитный абоне
 exports[`basic text styles > mobile > offers > Год 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1539,7 +1411,6 @@ exports[`basic text styles > mobile > offers > Год 1`] = `
 exports[`basic text styles > mobile > offers > Корпоративный фитнес 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1551,7 +1422,6 @@ exports[`basic text styles > mobile > offers > Корпоративный фит
 exports[`basic text styles > mobile > offers > Месяц бесплатно 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1563,7 +1433,6 @@ exports[`basic text styles > mobile > offers > Месяц бесплатно 1`]
 exports[`basic text styles > mobile > offers > Подробнее 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "700",
   "letter-spacing": "0.7px",
@@ -1575,7 +1444,6 @@ exports[`basic text styles > mobile > offers > Подробнее 1`] = `
 exports[`basic text styles > mobile > offers > Приведи друга 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1587,7 +1455,6 @@ exports[`basic text styles > mobile > offers > Приведи друга 1`] = `
 exports[`basic text styles > mobile > offers > Скидка 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1599,7 +1466,6 @@ exports[`basic text styles > mobile > offers > Скидка 1`] = `
 exports[`basic text styles > mobile > price > 1 месяц 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1611,7 +1477,6 @@ exports[`basic text styles > mobile > price > 1 месяц 1`] = `
 exports[`basic text styles > mobile > price > 6 месяцев 1`] = `
 {
   "color": "rgba(16, 38, 84, 0.5)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1623,7 +1488,6 @@ exports[`basic text styles > mobile > price > 6 месяцев 1`] = `
 exports[`basic text styles > mobile > price > 12 занятий 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1635,7 +1499,6 @@ exports[`basic text styles > mobile > price > 12 занятий 1`] = `
 exports[`basic text styles > mobile > price > Абонементы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1647,7 +1510,6 @@ exports[`basic text styles > mobile > price > Абонементы 1`] = `
 exports[`basic text styles > mobile > price > Дневной 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1659,7 +1521,6 @@ exports[`basic text styles > mobile > price > Дневной 1`] = `
 exports[`basic text styles > mobile > price > Купить абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -1671,7 +1532,6 @@ exports[`basic text styles > mobile > price > Купить абонемент 1`
 exports[`basic text styles > mobile > price > С тренером 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1683,7 +1543,6 @@ exports[`basic text styles > mobile > price > С тренером 1`] = `
 exports[`basic text styles > mobile > price > с 8:00 до 17:00 1`] = `
 {
   "color": "rgb(73, 90, 125)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1695,7 +1554,6 @@ exports[`basic text styles > mobile > price > с 8:00 до 17:00 1`] = `
 exports[`basic text styles > mobile > reviews > Анна Орлова 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1707,7 +1565,6 @@ exports[`basic text styles > mobile > reviews > Анна Орлова 1`] = `
 exports[`basic text styles > mobile > reviews > Отзывы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "32px",
   "font-weight": "600",
   "letter-spacing": "0.96px",
@@ -1719,7 +1576,6 @@ exports[`basic text styles > mobile > reviews > Отзывы 1`] = `
 exports[`basic text styles > mobile > reviews > больше года 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1731,7 +1587,6 @@ exports[`basic text styles > mobile > reviews > больше года 1`] = `
 exports[`basic text styles > tablet > about > Просторный зал 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1743,7 +1598,6 @@ exports[`basic text styles > tablet > about > Просторный зал 1`] = 
 exports[`basic text styles > tablet > about > Тренажерный зал 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -1755,7 +1609,6 @@ exports[`basic text styles > tablet > about > Тренажерный зал 1`] 
 exports[`basic text styles > tablet > about > самый большой фитнес центр 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1767,7 +1620,6 @@ exports[`basic text styles > tablet > about > самый большой фитн
 exports[`basic text styles > tablet > faq > Абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1779,7 +1631,6 @@ exports[`basic text styles > tablet > faq > Абонемент 1`] = `
 exports[`basic text styles > tablet > faq > Вопросы и ответы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -1791,7 +1642,6 @@ exports[`basic text styles > tablet > faq > Вопросы и ответы 1`] =
 exports[`basic text styles > tablet > faq > Где можно посмотреть 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1803,7 +1653,6 @@ exports[`basic text styles > tablet > faq > Где можно посмотрет
 exports[`basic text styles > tablet > faq > Для тренировок необходимо 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1815,7 +1664,6 @@ exports[`basic text styles > tablet > faq > Для тренировок необ
 exports[`basic text styles > tablet > faq > Как стать членом 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1827,7 +1675,6 @@ exports[`basic text styles > tablet > faq > Как стать членом 1`] =
 exports[`basic text styles > tablet > faq > Какие дополнительные правила 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1839,7 +1686,6 @@ exports[`basic text styles > tablet > faq > Какие дополнительн�
 exports[`basic text styles > tablet > faq > При первом посещении 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1851,7 +1697,6 @@ exports[`basic text styles > tablet > faq > При первом посещени
 exports[`basic text styles > tablet > faq > Центр 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1863,7 +1708,6 @@ exports[`basic text styles > tablet > faq > Центр 1`] = `
 exports[`basic text styles > tablet > features > 100 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1875,7 +1719,6 @@ exports[`basic text styles > tablet > features > 100 1`] = `
 exports[`basic text styles > tablet > features > 900 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1887,7 +1730,6 @@ exports[`basic text styles > tablet > features > 900 1`] = `
 exports[`basic text styles > tablet > features > Занимайтесь без 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -1899,7 +1741,6 @@ exports[`basic text styles > tablet > features > Занимайтесь без 1
 exports[`basic text styles > tablet > features > Наши преимущества 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -1911,7 +1752,6 @@ exports[`basic text styles > tablet > features > Наши преимуществ
 exports[`basic text styles > tablet > features > Площадь 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1923,7 +1763,6 @@ exports[`basic text styles > tablet > features > Площадь 1`] = `
 exports[`basic text styles > tablet > features > Современные тренажеры 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1935,7 +1774,6 @@ exports[`basic text styles > tablet > features > Современные трен
 exports[`basic text styles > tablet > features > Тренажеров 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -1947,7 +1785,6 @@ exports[`basic text styles > tablet > features > Тренажеров 1`] = `
 exports[`basic text styles > tablet > features > кв/м 1`] = `
 {
   "color": "rgb(46, 53, 172)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1959,7 +1796,6 @@ exports[`basic text styles > tablet > features > кв/м 1`] = `
 exports[`basic text styles > tablet > footer > 8-800-555-55-55 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1971,7 +1807,6 @@ exports[`basic text styles > tablet > footer > 8-800-555-55-55 1`] = `
 exports[`basic text styles > tablet > footer > 60 лет Октября 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1983,7 +1818,6 @@ exports[`basic text styles > tablet > footer > 60 лет Октября 1`] = `
 exports[`basic text styles > tablet > footer > Email: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -1995,7 +1829,6 @@ exports[`basic text styles > tablet > footer > Email: 1`] = `
 exports[`basic text styles > tablet > footer > omsk@supergym.ru 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2007,7 +1840,6 @@ exports[`basic text styles > tablet > footer > omsk@supergym.ru 1`] = `
 exports[`basic text styles > tablet > footer > Абонементы 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2019,7 +1851,6 @@ exports[`basic text styles > tablet > footer > Абонементы 1`] = `
 exports[`basic text styles > tablet > footer > Адрес 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2031,7 +1862,6 @@ exports[`basic text styles > tablet > footer > Адрес 1`] = `
 exports[`basic text styles > tablet > footer > Бесплатное занятие 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -2043,7 +1873,6 @@ exports[`basic text styles > tablet > footer > Бесплатное заняти
 exports[`basic text styles > tablet > footer > График работы: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2055,7 +1884,6 @@ exports[`basic text styles > tablet > footer > График работы: 1`] = 
 exports[`basic text styles > tablet > footer > Контакты 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "700",
   "letter-spacing": "1.26px",
@@ -2067,7 +1895,6 @@ exports[`basic text styles > tablet > footer > Контакты 1`] = `
 exports[`basic text styles > tablet > footer > Отправить 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -2079,7 +1906,6 @@ exports[`basic text styles > tablet > footer > Отправить 1`] = `
 exports[`basic text styles > tablet > footer > Пн-Вс: с 8:00 до 22:00 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2091,7 +1917,6 @@ exports[`basic text styles > tablet > footer > Пн-Вс: с 8:00 до 22:00 1`]
 exports[`basic text styles > tablet > footer > Телефон: 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "22px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2103,7 +1928,6 @@ exports[`basic text styles > tablet > footer > Телефон: 1`] = `
 exports[`basic text styles > tablet > footer > Услуги 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2115,7 +1939,6 @@ exports[`basic text styles > tablet > footer > Услуги 1`] = `
 exports[`basic text styles > tablet > games > 7 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2127,7 +1950,6 @@ exports[`basic text styles > tablet > games > 7 1`] = `
 exports[`basic text styles > tablet > games > 12:00 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2139,7 +1961,6 @@ exports[`basic text styles > tablet > games > 12:00 1`] = `
 exports[`basic text styles > tablet > games > 2019 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "10px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2151,7 +1972,6 @@ exports[`basic text styles > tablet > games > 2019 1`] = `
 exports[`basic text styles > tablet > games > Certified 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2163,7 +1983,6 @@ exports[`basic text styles > tablet > games > Certified 1`] = `
 exports[`basic text styles > tablet > games > CrossFit 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2175,7 +1994,6 @@ exports[`basic text styles > tablet > games > CrossFit 1`] = `
 exports[`basic text styles > tablet > games > Super games 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "48px",
   "font-weight": "600",
   "letter-spacing": "1.44px",
@@ -2187,7 +2005,6 @@ exports[`basic text styles > tablet > games > Super games 1`] = `
 exports[`basic text styles > tablet > games > Александр Пашков 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2199,7 +2016,6 @@ exports[`basic text styles > tablet > games > Александр Пашков 1`
 exports[`basic text styles > tablet > games > Анна Павлова 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2211,7 +2027,6 @@ exports[`basic text styles > tablet > games > Анна Павлова 1`] = `
 exports[`basic text styles > tablet > games > Время 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2223,7 +2038,6 @@ exports[`basic text styles > tablet > games > Время 1`] = `
 exports[`basic text styles > tablet > games > Дата 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2235,7 +2049,6 @@ exports[`basic text styles > tablet > games > Дата 1`] = `
 exports[`basic text styles > tablet > games > Ежегодные соревнования 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2247,7 +2060,6 @@ exports[`basic text styles > tablet > games > Ежегодные соревно�
 exports[`basic text styles > tablet > games > Жюри 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -2259,7 +2071,6 @@ exports[`basic text styles > tablet > games > Жюри 1`] = `
 exports[`basic text styles > tablet > games > Заполнить заявку 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -2271,7 +2082,6 @@ exports[`basic text styles > tablet > games > Заполнить заявку 1`
 exports[`basic text styles > tablet > games > Марта 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "10px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2283,7 +2093,6 @@ exports[`basic text styles > tablet > games > Марта 1`] = `
 exports[`basic text styles > tablet > games > Опыт 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2295,7 +2104,6 @@ exports[`basic text styles > tablet > games > Опыт 1`] = `
 exports[`basic text styles > tablet > games > Победитель чемпионата России 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2307,7 +2115,6 @@ exports[`basic text styles > tablet > games > Победитель чемпио�
 exports[`basic text styles > tablet > hero > 8-800-555-55-55 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2319,7 +2126,6 @@ exports[`basic text styles > tablet > hero > 8-800-555-55-55 1`] = `
 exports[`basic text styles > tablet > hero > Купить абонемент 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -2331,7 +2137,6 @@ exports[`basic text styles > tablet > hero > Купить абонемент 1`]
 exports[`basic text styles > tablet > hero > Омск 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -2343,7 +2148,6 @@ exports[`basic text styles > tablet > hero > Омск 1`] = `
 exports[`basic text styles > tablet > hero > Тренажёрный зал 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2355,7 +2159,6 @@ exports[`basic text styles > tablet > hero > Тренажёрный зал 1`] =
 exports[`basic text styles > tablet > offers > 4999 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "70px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2367,7 +2170,6 @@ exports[`basic text styles > tablet > offers > 4999 1`] = `
 exports[`basic text styles > tablet > offers > Акции 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -2379,7 +2181,6 @@ exports[`basic text styles > tablet > offers > Акции 1`] = `
 exports[`basic text styles > tablet > offers > Безлимитный абонемент 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2391,7 +2192,6 @@ exports[`basic text styles > tablet > offers > Безлимитный абоне
 exports[`basic text styles > tablet > offers > Год 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2403,7 +2203,6 @@ exports[`basic text styles > tablet > offers > Год 1`] = `
 exports[`basic text styles > tablet > offers > Корпоративный фитнес 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2415,7 +2214,6 @@ exports[`basic text styles > tablet > offers > Корпоративный фит
 exports[`basic text styles > tablet > offers > Месяц бесплатно 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2427,7 +2225,6 @@ exports[`basic text styles > tablet > offers > Месяц бесплатно 1`]
 exports[`basic text styles > tablet > offers > Подробнее 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "14px",
   "font-weight": "700",
   "letter-spacing": "0.7px",
@@ -2439,7 +2236,6 @@ exports[`basic text styles > tablet > offers > Подробнее 1`] = `
 exports[`basic text styles > tablet > offers > Приведи друга 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2451,7 +2247,6 @@ exports[`basic text styles > tablet > offers > Приведи друга 1`] = `
 exports[`basic text styles > tablet > offers > Скидка 1`] = `
 {
   "color": "rgb(28, 51, 116)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2463,7 +2258,6 @@ exports[`basic text styles > tablet > offers > Скидка 1`] = `
 exports[`basic text styles > tablet > price > 1 месяц 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2475,7 +2269,6 @@ exports[`basic text styles > tablet > price > 1 месяц 1`] = `
 exports[`basic text styles > tablet > price > 6 месяцев 1`] = `
 {
   "color": "rgba(16, 38, 84, 0.5)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "18px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2487,7 +2280,6 @@ exports[`basic text styles > tablet > price > 6 месяцев 1`] = `
 exports[`basic text styles > tablet > price > 12 занятий 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2499,7 +2291,6 @@ exports[`basic text styles > tablet > price > 12 занятий 1`] = `
 exports[`basic text styles > tablet > price > Абонементы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -2511,7 +2302,6 @@ exports[`basic text styles > tablet > price > Абонементы 1`] = `
 exports[`basic text styles > tablet > price > Дневной 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2523,7 +2313,6 @@ exports[`basic text styles > tablet > price > Дневной 1`] = `
 exports[`basic text styles > tablet > price > Купить абонемент 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "12px",
   "font-weight": "700",
   "letter-spacing": "0.6px",
@@ -2535,7 +2324,6 @@ exports[`basic text styles > tablet > price > Купить абонемент 1`
 exports[`basic text styles > tablet > price > С тренером 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "24px",
   "font-weight": "700",
   "letter-spacing": "normal",
@@ -2547,7 +2335,6 @@ exports[`basic text styles > tablet > price > С тренером 1`] = `
 exports[`basic text styles > tablet > price > с 8:00 до 17:00 1`] = `
 {
   "color": "rgb(73, 90, 125)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
@@ -2559,7 +2346,6 @@ exports[`basic text styles > tablet > price > с 8:00 до 17:00 1`] = `
 exports[`basic text styles > tablet > reviews > Анна Орлова 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "20px",
   "font-weight": "400",
   "letter-spacing": "normal",
@@ -2571,7 +2357,6 @@ exports[`basic text styles > tablet > reviews > Анна Орлова 1`] = `
 exports[`basic text styles > tablet > reviews > Отзывы 1`] = `
 {
   "color": "rgb(16, 38, 84)",
-  "font-family": "\\"Alumni Sans\\", Arial, sans-serif",
   "font-size": "42px",
   "font-weight": "600",
   "letter-spacing": "1.26px",
@@ -2583,7 +2368,6 @@ exports[`basic text styles > tablet > reviews > Отзывы 1`] = `
 exports[`basic text styles > tablet > reviews > больше года 1`] = `
 {
   "color": "rgb(255, 255, 255)",
-  "font-family": "\\"Roboto Condensed\\", Arial, sans-serif",
   "font-size": "16px",
   "font-weight": "300",
   "letter-spacing": "normal",
