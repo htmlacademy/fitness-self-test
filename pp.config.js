@@ -30,6 +30,7 @@ const indexSections = [
       },
     ],
     "onReadyScript": "onReady.cjs",
+    "onBeforeScript": "onBefore.cjs",
     "resembleOutputOptions": {
       "ignoreAntialiasing": true,
       "errorType": "movementDifferenceIntensity",
