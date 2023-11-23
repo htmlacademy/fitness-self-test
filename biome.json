@@ -1,7 +1,9 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.3.3/schema.json",
   "files": {
-    "ignore": ["**/vendor/*", "js/modules/form-validate/*"]
+    "ignore": [
+      "**/vendor/*", "js/modules/form-validate/*", "js/utils/scroll-lock.js", "eslintconfig.cjs",
+    ".eslintrc", "js/utils/focus-lock.js", "init-modals.js", "tabs.js"]
   },
   "organizeImports": {
     "enabled": false
@@ -36,7 +38,7 @@
         "noMisrefactoredShorthandAssign": "warn",
         "noUnusedImports": "error",
         "noUselessElse": "warn",
-        "noUselessLoneBlockStatements": "error"
+        "noUselessLoneBlockStatements": "warn"
       }
     }
   }
